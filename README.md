@@ -1,0 +1,1 @@
+Comparison of home run distance and baseball speed speed leaving the bat.  All data is from 2016 MLB season and found [here](https://www.statcrunch.com/app/index.php?dataid=2108268).
